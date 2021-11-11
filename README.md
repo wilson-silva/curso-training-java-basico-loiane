@@ -2,7 +2,7 @@
 
 Revisando fundamentos de Java com o curso loiane.training.
 
-## Aulas Concluídas
+## Aulas
 
 1. Introdução - 01:48:01
 2. Começando com Java - 02:31:03
