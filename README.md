@@ -12,5 +12,5 @@ Revisando fundamentos de Java com o curso loiane.training.
 6. For each e Debug de aplicações Java - 00:51:19
 7. Orientação à Objetos e Java - 04:07:34
 8. OO: Herança, Interfaces e Polimorfismo - 02:58:20
-9. Tratamento de erros e exceções
+9. Tratamento de erros e exceções - 01:49:35
 
